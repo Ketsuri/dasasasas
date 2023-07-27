@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://media.discordapp.net/attachments/929807268994744340/991235968667500554/E3A57DE9-DA97-459D-9AE2-EC6F9D781959.gif" # Link to the webpage to redirect to 
+        "page": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
